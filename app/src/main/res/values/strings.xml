@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">COSU Lean</string>
+    <string name="unlocked_hint">Main Screen</string>
+    <string name="start_lock_task">Start Lock Task Mode</string>
+    <string name="locked_hint">Locked Screen</string>
+    <string name="btn_exit_lock">Exit Lock Task Mode</string>
+    <string name="lock_tast_not_permitted">Lock task is not permitted</string>
+    <string name="title_activity_locked">Locked</string>
+    <string name="not_device_owner">App is not a device owner</string>
+    <string name="not_lock_whitelisted">App is not whitelisted</string>
+</resources>
